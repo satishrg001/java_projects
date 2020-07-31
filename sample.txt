@@ -1,0 +1,12 @@
+ Volume in drive E is Data
+ Volume Serial Number is 623C-401F
+
+ Directory of E:\Jenkins\java_projects
+
+08/01/2020  12:45 AM    <DIR>          .
+08/01/2020  12:45 AM    <DIR>          ..
+08/01/2020  12:44 AM               899 Hello.class
+07/31/2020  11:36 PM               144 Hello.java
+08/01/2020  12:45 AM                 0 sample.txt
+               3 File(s)          1,043 bytes
+               2 Dir(s)  230,878,543,872 bytes free
